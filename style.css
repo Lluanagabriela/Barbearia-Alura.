@@ -1,5 +1,16 @@
-body{background-color: hsl(0, 10%, 81%);}
+body{background-color: hsl(0, 1%, 85%);}
 
 h1{
-    color: rgb(255, 0, 0);  text-align: center;
+    color: rgb(0, 0, 0);  text-align: center;
+}
+p{
+    text-align: center;
+    
+}
+#missao{ font-size: 20px;
+
+}
+    
+em strong{
+    color: red;
 }
