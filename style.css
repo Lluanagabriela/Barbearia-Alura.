@@ -1,5 +1,10 @@
 body{background-color: hsl(0, 1%, 85%);}
 
+#banner{
+width: 100%;
+}
+
+
 h1{
     color: rgb(0, 0, 0);  text-align: center;
 }
