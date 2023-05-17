@@ -1,4 +1,10 @@
-body{background-color: hsl(0, 1%, 85%);}
+body{background-color:white;}
+
+.principal{
+background-color: #ccc;
+padding: 20px;
+}
+
 
 #banner{
 width: 100%;
@@ -18,4 +24,28 @@ p{
     
 em strong{
     color: red;
+}
+
+.itens{
+    font-style: italic;
+}
+
+
+.beneficios{
+    background-color: white;
+}
+
+h2{
+    text-align: center;
+}
+
+.imagembeneficios{
+width: 50%;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 23%;
+   
 }
