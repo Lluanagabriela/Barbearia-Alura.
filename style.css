@@ -1,5 +1,5 @@
 header{
-    background-color: #ccc;
+    background-color: #0a1577;
     padding: 20px 0;
 }
 
@@ -30,7 +30,7 @@ nav a{
 }
 
 nav a:hover{
-  color: #c78c19;
+  color: #ce0000;
   text-decoration: underline;
 
 }
@@ -57,7 +57,8 @@ nav a:hover{
 }
 
 .produtos li:hover {
-    border-color: #c78c19;
+  color: #ce0000;
+  border-color: ;
     
 
 }
