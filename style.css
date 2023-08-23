@@ -22,7 +22,7 @@ nav li{
 
 nav a{
     text-transform: uppercase;
-    color: black;
+    color: rgb(0, 0, 0);
     font-size: 22px;
     font-weight: bold;
     text-decoration: none;
@@ -50,7 +50,7 @@ nav a:hover{
    margin: 0 1.5%;
    padding: 30px 20px ;
    box-sizing: border-box;
-   border: 2px solid #000000;
+   border: 2px solid #ff0000e3;
    border-radius: 10px;
 
 
@@ -122,4 +122,8 @@ form label, form p {
     margin: 0 0 20px;
     padding: 10px 25px;
     width: 50%;
+}
+
+.checkbox{
+    margin: 20px 0;
 }
