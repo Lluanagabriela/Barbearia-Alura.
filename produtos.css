@@ -22,7 +22,7 @@ nav li{
 
 nav a{
     text-transform: uppercase;
-    color: black;
+    color: rgb(255, 0, 0);
     font-size: 22px;
     font-weight: bold;
     text-decoration: none;
@@ -57,7 +57,7 @@ nav a:hover{
 }
 
 .produtos li:hover {
-    border-color: #c78c19;
+    border-color: #ff0000;
     
 
 }
@@ -68,7 +68,7 @@ nav a:hover{
 }
 
 .produtos li:active{
-    border-color: #088c19;
+    border-color: #ff0000;
 }
 
 
