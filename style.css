@@ -127,3 +127,18 @@ form label, form p {
 .checkbox{
     margin: 20px 0;
 }
+
+.enviar{
+    width: 43%;
+    padding: 10px 0;
+    background-color: #1b289e;
+    color: #ffffff;
+    font-size: 15px;
+    border: none;
+    transition: 1s all;
+}
+
+.enviar:hover{
+    background-color: #ff0000;
+    color: #ffffff;
+}
