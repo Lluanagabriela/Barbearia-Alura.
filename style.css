@@ -169,11 +169,12 @@ width: 100%;
     font-size: 2em;
     margin: 0 0 1em;
     clear: left;
+    font-family: 'Cinzel', serif;
 }
 
 .principal p {
     margin: 0 0 1em;
-
+    font-family: 'Cinzel', serif;
 }
 
 .principal strong{
